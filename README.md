@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piotr "Xeiciu" Lisowski
-- 👀 I’m interested in Randomness in games, simulating randomness, creating random things and learning C++
-- 🌱 I’m currently learning C++ and probabilities.
+- 👀 I’m interested in Randomness in games, simulations, alghoritms and creating games.
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on Currently nothing.
 - 📫 How to reach me send me e-mail on: contact@xeiciu.com
 
