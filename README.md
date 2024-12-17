@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Piotr "Xeiciu" Lisowski
-- 👀 I’m interested in Randomness in games, simulations, alghoritms and creating games.
-- 📫 How to reach me send me e-mail on: contact@xeiciu.com
+Hi, Xeiciu here. 
 
-- Currently working as UI/General Programmer in Unreal Engine 5.
+This place is my personal space for projects that are mostly outdated and dead... I should clean it someday.
+If you need something contact me via this mail: contact@xeiciu.com
+
+Current things: Full time game dev working in Unreal 5.
